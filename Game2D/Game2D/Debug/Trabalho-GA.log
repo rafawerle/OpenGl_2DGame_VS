@@ -1,0 +1,14 @@
+﻿  Game.cpp
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(12,21): warning C4244: 'inicializando': conversão de 'float' para 'GLuint', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(12,43): warning C4244: 'inicializando': conversão de 'float' para 'GLuint', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(121,22): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(135,38): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(239,16): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(240,16): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(241,21): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(242,21): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(266,14): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(267,14): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(268,20): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Trabalho-GA\Game.cpp(269,20): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  Trabalho-GA.vcxproj -> D:\Backup\Documents\Acadêmico\unisinos\4 semestre\2022_01 processamento gráfico\Projetos\Trabalhos\Trabalho-GA\Debug\Trabalho-GA.exe
